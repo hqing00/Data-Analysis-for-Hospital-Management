@@ -1,4 +1,4 @@
-# Data-Analysis-for-Hospital-Management
+# Data Analysis for Hospital Management
 This repository contains a project focused on analyzing hospital management data using SQLite. The aim is to explore and analyze data from a hospital management system to extract meaningful insights for improving healthcare operations and decision-making.
 
 ## Data
